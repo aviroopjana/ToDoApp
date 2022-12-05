@@ -105,7 +105,7 @@ class _MyCustomSplashScreenState extends State<MyCustomSplashScreen>
                   borderRadius: BorderRadius.circular(30),
                 ),
                 //child: Image(image: AssetImage("assets/logo.png")),
-                //child: Image.asset('assets/logo.png'),
+                child: Image.asset('assets/logo.png'),
               ),
             ),
           ),
