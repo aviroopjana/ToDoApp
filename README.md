@@ -3,12 +3,13 @@
 This is a simple To Do application built using Flutter framework.
 
 Features
-Add a new task
-Mark a task as completed
-Delete a task
-View all tasks
-View completed tasks
-View pending tasks
+- Add a new task
+- Mark a task as completed
+- Delete a task
+- View all tasks
+- View completed tasks
+- View pending tasks
+
 Built With
 Flutter - A framework for building high-performance, high-fidelity, apps for iOS, Android, web, and desktop from a single codebase.
 
